@@ -17,9 +17,12 @@ An HC-SR04 ultrasonic sensor measures how far your hand is. An ESP32 sends that 
 
 <img width="899" height="1600" alt="demo" src="https://github.com/user-attachments/assets/e39d2506-da31-4f12-bc39-8045a5de36c5" />
 
+----
 
 **Watch the full build video on YouTube:** [YouTube - ADD YOUR VIDEO LINK HERE](https://youtube.com/)
+
 **Watch the full build video on Facebook:**
+
 **Watch the full build video on Instagram:**
 
 ---
